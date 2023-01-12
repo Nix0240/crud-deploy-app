@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Jack",
+      "email": "jack@gmail.com",
+      "contact": "212145871",
+      "addres": "",
+      "address": "India",
+      "id": 1
+    },
+    {
+      "name": "Jhon",
+      "email": "jhon@gmail.com",
+      "contact": "79451212354",
+      "address": "Amsterdam",
+      "id": 2
+    },
+    {
+      "name": "Steve",
+      "email": "steve@gmail.com",
+      "contact": "544564512132",
+      "address": "LA",
+      "id": 3
+    },
+    {
+      "name": "Haley",
+      "email": "harley@gmail.com",
+      "contact": "456321874",
+      "address": "Milkewe",
+      "id": 4
+    },
+    {
+      "name": "Aman",
+      "email": "aman@gmail.com",
+      "contact": "546794561",
+      "address": "India",
+      "id": 5
+    }
+  ]
+}
