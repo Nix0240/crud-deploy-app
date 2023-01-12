@@ -75,7 +75,7 @@ function App() {
   };
 
   const handleUpdate = (id) => {
-    const singleUser = data.find((item) => item.id == id);
+    const singleUser = data.find((item) => item.id === id);
     setState({ ...singleUser });
     setUserid(id);
     setEditMode(true);
